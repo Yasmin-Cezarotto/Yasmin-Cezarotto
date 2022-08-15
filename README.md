@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Yasmin-Cezarotto
+- 👀 I’m interested in aprender a programar novas linguagens.
+- 🌱 I’m currently learning a programar recentemente a linguagem de JavaScript e scratch.
